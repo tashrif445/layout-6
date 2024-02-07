@@ -1,0 +1,61 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.a{
+    display: flex;
+    height: 773px;
+
+}
+.b{
+    width: 60%;
+    
+
+}
+.c{ height:25%;
+    font-size: 20px;
+    color:black;
+    background-color: fuchsia;
+    text-align: center;
+
+
+}
+.d{ height: 25%;
+    font-size: 20px;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+
+}
+.e{
+    height: 25%;
+    font-size: 20px;
+    color: black;
+    background-color: darkred;
+    text-align: center;
+
+}
+.f{ 
+    height: 25%;
+    font-size: 20px;
+    color: black;
+    background-color:darkgoldenrod;
+    text-align: center;
+
+}
+.g{ 
+    width: 20%;
+    font-size: 20px;
+    color: black;
+    background-color:lime;
+    text-align: center;
+    
+
+}
+.h{
+    width: 20%;
+    font-size: 20px;
+    color: black;
+    background-color:lime;
+    text-align: center;
+}
